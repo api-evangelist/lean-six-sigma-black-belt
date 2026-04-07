@@ -8,12 +8,12 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Process Improvement
-  - Quality Management
-  - Statistical Analysis
-  - Project Management
   - Lean Manufacturing
+  - Process Improvement
+  - Project Management
+  - Quality Management
   - Six Sigma
+  - Statistical Analysis
 url: https://raw.githubusercontent.com/api-evangelist/lean-six-sigma-black-belt/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
