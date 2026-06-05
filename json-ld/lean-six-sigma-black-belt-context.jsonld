@@ -1,0 +1,65 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "lean": "https://www.asq.org/quality-resources/lean/",
+    "sixsigma": "https://www.asq.org/quality-resources/six-sigma/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "LeanSixSigmaBlackBelt": {
+      "@id": "schema:EducationalOccupationalCredential",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "industry": "schema:industry",
+    "provider": {
+      "@id": "schema:provider",
+      "@type": "@id"
+    },
+    "Organization": "schema:Organization",
+    "Certification": "schema:EducationalOccupationalCredential",
+    "credentialCategory": "schema:credentialCategory",
+    "recognizedBy": {
+      "@id": "schema:recognizedBy",
+      "@type": "@id"
+    },
+    "competencyRequired": "schema:competencyRequired",
+
+    "DMAIC": {
+      "@id": "sixsigma:dmaic",
+      "@type": "@id"
+    },
+    "DefinePhase": "sixsigma:define",
+    "MeasurePhase": "sixsigma:measure",
+    "AnalyzePhase": "sixsigma:analyze",
+    "ImprovePhase": "sixsigma:improve",
+    "ControlPhase": "sixsigma:control",
+
+    "ProcessCapability": "sixsigma:process-capability",
+    "DefectRate": "sixsigma:defect-rate",
+    "DPMO": "sixsigma:dpmo",
+    "SigmaLevel": "sixsigma:sigma-level",
+    "ControlChart": "sixsigma:control-chart",
+    "StatisticalProcessControl": "sixsigma:spc",
+    "HypothesisTesting": "sixsigma:hypothesis-testing",
+    "RegressionAnalysis": "sixsigma:regression",
+    "DOE": "sixsigma:design-of-experiments",
+    "MSA": "sixsigma:measurement-system-analysis",
+    "FMEA": "lean:fmea",
+    "ValueStreamMapping": "lean:value-stream-mapping",
+    "Kaizen": "lean:kaizen",
+    "FiveS": "lean:5s",
+    "WasteReduction": "lean:waste",
+    "ContinuousImprovement": "lean:continuous-improvement",
+    "ChangeManagement": "schema:Action",
+    "ProjectCharter": "schema:Project",
+    "StakeholderAnalysis": "schema:Person",
+    "RootCauseAnalysis": "sixsigma:root-cause-analysis",
+    "FishboneDiagram": "sixsigma:ishikawa"
+  }
+}

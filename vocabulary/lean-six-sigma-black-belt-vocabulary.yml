@@ -1,0 +1,129 @@
+vocabulary:
+  name: Lean Six Sigma Black Belt Vocabulary
+  description: >-
+    Key concepts, methodologies, and terminology associated with the Lean Six
+    Sigma Black Belt certification and practice, covering statistical analysis,
+    process improvement, and quality management disciplines.
+  version: "1.0"
+  terms:
+    - term: DMAIC
+      definition: >-
+        A structured problem-solving methodology standing for Define, Measure,
+        Analyze, Improve, and Control. The core framework used by Six Sigma
+        Black Belts to drive process improvement projects.
+      tags:
+        - methodology
+        - six-sigma
+        - process-improvement
+    - term: Process Capability
+      definition: >-
+        A statistical measure (Cp, Cpk) that quantifies how well a process
+        performs relative to its specification limits, indicating the ability
+        to produce output within tolerances consistently.
+      tags:
+        - statistics
+        - quality
+        - measurement
+    - term: DPMO
+      definition: >-
+        Defects Per Million Opportunities; a metric used to express the defect
+        rate of a process normalized to one million chances for a defect to
+        occur, used to calculate the sigma level of a process.
+      tags:
+        - metrics
+        - quality
+        - six-sigma
+    - term: Statistical Process Control
+      definition: >-
+        The use of statistical methods and control charts to monitor and control
+        a process over time, distinguishing between common-cause and
+        special-cause variation to maintain process stability.
+      tags:
+        - statistics
+        - quality
+        - control
+    - term: Value Stream Mapping
+      definition: >-
+        A lean management technique for analyzing and designing the flow of
+        materials and information required to bring a product or service from
+        raw material to the customer, identifying waste and improvement
+        opportunities.
+      tags:
+        - lean
+        - process-mapping
+        - waste-reduction
+    - term: Design of Experiments
+      definition: >-
+        A systematic method for planning, conducting, analyzing, and
+        interpreting controlled tests to evaluate the factors that control the
+        value of a parameter or group of parameters, used to optimize processes.
+      tags:
+        - statistics
+        - optimization
+        - experimentation
+    - term: Measurement System Analysis
+      definition: >-
+        A statistical study to assess the accuracy and precision of a
+        measurement system (gage R&R), ensuring that data collected is reliable
+        enough for process improvement decisions.
+      tags:
+        - measurement
+        - statistics
+        - quality
+    - term: FMEA
+      definition: >-
+        Failure Mode and Effects Analysis; a systematic process for identifying
+        potential failures in a design or process, assessing their impact, and
+        prioritizing corrective actions based on risk priority numbers (RPN).
+      tags:
+        - risk-management
+        - quality
+        - reliability
+    - term: Kaizen
+      definition: >-
+        A Japanese philosophy and practice meaning "continuous improvement,"
+        focusing on small, incremental changes involving all employees to
+        improve productivity, efficiency, and quality over time.
+      tags:
+        - lean
+        - continuous-improvement
+        - culture
+    - term: Hypothesis Testing
+      definition: >-
+        A statistical method used to make inferences or draw conclusions about
+        a population based on sample data; Black Belts use tests (t-test,
+        ANOVA, chi-square) to validate whether process changes produce
+        statistically significant improvements.
+      tags:
+        - statistics
+        - analysis
+        - decision-making
+    - term: Root Cause Analysis
+      definition: >-
+        A class of problem-solving methods aimed at identifying the fundamental
+        cause(s) of a defect or problem rather than treating symptoms, using
+        tools such as fishbone (Ishikawa) diagrams and the 5 Whys technique.
+      tags:
+        - problem-solving
+        - quality
+        - analysis
+    - term: Control Chart
+      definition: >-
+        A graphical tool used in Statistical Process Control to plot process
+        data over time with statistically determined upper and lower control
+        limits, helping distinguish normal variation from signals requiring
+        investigation.
+      tags:
+        - statistics
+        - monitoring
+        - quality
+    - term: Change Management
+      definition: >-
+        The structured approach to transitioning individuals, teams, and
+        organizations from a current state to a desired future state, a critical
+        competency for Black Belts leading improvement projects with
+        organizational impact.
+      tags:
+        - leadership
+        - organizational-change
+        - project-management
