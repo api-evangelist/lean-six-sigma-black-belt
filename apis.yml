@@ -20,6 +20,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lean-six-sigma-black-belt-domain-security.yml
   - type: Website
     url: https://www.asq.org/cert/six-sigma-black-belt
 maintainers:
