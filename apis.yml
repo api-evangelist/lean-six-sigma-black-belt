@@ -38,10 +38,12 @@ tags:
   - Statistical Analysis
 url: https://raw.githubusercontent.com/api-evangelist/lean-six-sigma-black-belt/refs/heads/main/apis.yml
 created: '2025-01-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://asq.org/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/lean-six-sigma-black-belt-domain-security.yml
   - type: Website
